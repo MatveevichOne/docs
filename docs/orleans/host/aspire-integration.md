@@ -29,6 +29,7 @@ Before using Orleans with .NET Aspire, ensure you have:
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or later
 - [Aspire CLI](https://aspire.dev/get-started/install-cli/)
+
 - An IDE with .NET Aspire support (Visual Studio 2022 17.9+, VS Code with [`microsoft-aspire.aspire-vscode`](https://marketplace.visualstudio.com/items?itemName=microsoft-aspire.aspire-vscode), or JetBrains Rider)
 
 ## Required packages
